@@ -1,0 +1,122 @@
+/* Write your CSS Here.
+Very simple css  */
+
+
+
+*::before
+*::after {
+    display:flex;
+    box-sizing: border-box;
+    font-family: fantasy;    
+}
+
+body {
+    width: 700x;
+    max-width: 70%;
+    border-radius: 1px;
+    display:flexbox;
+    margin-left: 60px;
+    margin-right:20px ;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    padding-left: 20px;
+    padding-right:0px;
+    padding-top: 10px;
+    padding-bottom: 40px;
+    
+    border-bottom: 0px ;
+    border-top: 0px;
+    border-left: px;
+    border-right: 50px;
+    background-color: rgba(9, 8, 8, 0.89);
+    font-size: 1.8rem;
+    box-shadow: 0.1px 1px rgba(165, 159, 113, 0.475), -0.2em 0 .9991em  #dadee2f1;
+}
+#container {
+display:flexbox ;
+    width: 600x;
+    max-width: 60%;
+    border-radius: 1px;
+    background-color: rgba(0, 0, 5, 0.938);
+    padding: 60px;
+    margin-right: 10;
+    margin-left: 0px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-left: 40px;
+    padding-right:10px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    box-shadow: 2px 12px 2px 1px rgb(26, 28, 30);
+    } 
+#img {
+    
+    height: 500px;
+    width: 600px;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding-left: 0px;
+    padding-right:0px;
+    padding-top: 30px;
+    padding-bottom: 0px;
+    
+
+    }
+#message{
+    font-family: sans-serif Bold;
+
+    font-size: 0.8rem;
+    color: #fa0f0fef;
+    text-align: left;
+    margin-left: 0px;
+    margin-right:10px;
+    margin-top: 5px;
+    margin-bottom: -1px;
+    padding-left: 0px;
+    padding-right:0px;
+    padding-top: 0px;
+    padding-bottom: -1px;
+
+}
+
+#button{
+    background-color: rgb(45, 46, 48);
+    height: 300px;
+    width: 600px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    padding-left: 0px;
+    padding-right:0px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    font-family: fantasy;
+   font-size: 2.5rem;
+   text-align:center;
+   color:#f1e9e9ef
+   
+}
+#show {
+    background-color: rgb(42, 43, 45);
+    height: 200px;
+    width: 600px;
+    margin-left: 0px;
+    margin-right: 100px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 30px;
+    font-family: fantasy;
+    font-size: 2.5rem;
+    text-align:center;
+    color:#f1e9e9ef
+}
+
+@media 
+
+
