@@ -1,8 +1,4 @@
 
-// Libraries and info from JS TuTorial fot this great code 
-
-// Great app. Search what it's in your area with your API & Geo Location  
-
 (() => {
 
     function constructImageURL (photoObj) {
